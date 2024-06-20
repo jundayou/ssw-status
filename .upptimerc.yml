@@ -20,31 +20,31 @@ sites:
     check: "tcp-ping"
     port: 9201
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] Ashburn, VA, US
+  - name: "[Edge] Ashburn, VA, US"
     url: $E1_ASHBURN_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] Portland, OR, US
+  - name: "[Edge] Portland, OR, US"
     url: $E1_PORTLAND_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] Frankfurt, Germany
+  - name: "[Edge] Frankfurt, Germany"
     url: $E1_FRANKFURT_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] Taipei, TW
+  - name: "[Edge] Taipei, TW"
     url: $E1_TAIPEI_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] HongKong, China
+  - name: "[Edge] HongKong, China"
     url: $E1_HONGKONG_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] London, England
+  - name: "[Edge] London, England"
     url: $E1_LONDON_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
-  - name: [Edge] Tokyo, Japan
+  - name: "[Edge] Tokyo, Japan"
     url: $E1_TOKYO_CTRL_USW2 # 
     method: GET
     icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
