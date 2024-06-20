@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dev.ztw.splashtop.com
   # baseUrl: /ssw-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/jundayou/ssw-status/master/static/logo-shield-black.png
   name: SSW Status
   introTitle: "**Splashtop Secure Workspace Status**"
   introMessage:
