@@ -23,31 +23,31 @@ sites:
   - name: '[Edge] Ashburn, VA, US'
     url: $E1_ASHBURN_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/us.912cb4a8f30b24032f0d.svg
   - name: '[Edge] Portland, OR, US'
     url: $E1_PORTLAND_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/us.912cb4a8f30b24032f0d.svg
   - name: '[Edge] Frankfurt, Germany'
     url: $E1_FRANKFURT_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/de.adc6c9b3594fb2f4a4df.svg
   - name: '[Edge] Taipei, TW'
     url: $E1_TAIPEI_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/tw.39308d8769d9190bd1aa.svg
   - name: '[Edge] HongKong, China'
     url: $E1_HONGKONG_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/hk.b80f4f843c33522190c6.svg
   - name: '[Edge] London, England'
     url: $E1_LONDON_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/gb.84d4bb24d2a1a5891e0d.svg
   - name: '[Edge] Tokyo, Japan'
     url: $E1_TOKYO_CTRL_USW2 # 
     method: GET
-    icon: https://us.ssw.splashtop.com/img/favicon-logo.svg
+    icon: https://reg.ssw.splashtop.com/static/media/jp.5d4d1d1eeb3d4c9ca374.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
