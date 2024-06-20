@@ -1,6 +1,6 @@
 # Change these first
-owner: Splashtop # Your GitHub organization or username, where this repository lives
-repo: Splashtop # The name of this repository
+owner: jundayou # Your GitHub organization or username, where this repository lives
+repo: ssw-status # The name of this repository
 
 sites:
   - name: Google
@@ -11,8 +11,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dev.ztw.splashtop.com
   # baseUrl: /ssw-status
-  logoUrl: https://raw.githubusercontent.com/jundayou/ssw-status/master/static/logo-shield-black.png
-  favicon: https://raw.githubusercontent.com/jundayou/ssw-status/master/static/logo-shield-black.png
+  logoUrl: https://spt.us.ssw.splashtop.com/img/favicon-logo.svg
+  # favicon: https://raw.githubusercontent.com/jundayou/ssw-status/master/static/logo-shield-black.png
+  faviconSvg: https://spt.us.ssw.splashtop.com/img/favicon-logo.svg
   name: SSW Status
   # robotsText: "User-agent: * \n Disallow: /"
   introTitle: "**Splashtop Secure Workspace Status**"
