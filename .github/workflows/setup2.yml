@@ -60,5 +60,15 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
 
       - name: Setup tmate session
-        if: ${{ github.event_name == 'workflow_dispatch' &&  github.event.inputs.DEBUG == 'true' }}
         uses: mxschmitt/action-tmate@v3
+
+
+      - uses: peaceiris/actions-gh-pages@v3.7.3
+        name: GitHub Pages Deploy
+        with:
+          github_token: ${{ secrets.GH_PAT || github.token }}
+          publish_dir: "site/status-page/__sapper__/export/"
+          force_orphan: "false"
+          user_name: "Upptime Bot"
+          user_email: "73812536+upptime-bot@users.noreply.github.com"
+
