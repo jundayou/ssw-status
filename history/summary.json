@@ -4,63 +4,69 @@
     "url": "https://us.ssw.splashtop.com/",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "ssw-portal-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 370,
-    "timeWeek": 238,
-    "timeMonth": 260,
+    "timeDay": 328,
+    "timeWeek": 244,
+    "timeMonth": 261,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 1
+    }
   },
   {
     "name": "Secret Manager (US)",
     "url": "$US_SECRET_MANAGER_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "secret-manager-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 90,
-    "timeWeek": 54,
-    "timeMonth": 56,
+    "timeDay": 77,
+    "timeWeek": 55,
+    "timeMonth": 57,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 1
+    }
   },
   {
     "name": "Controller (US)",
     "url": "$US_CONTROLLER_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "controller-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
-    "timeDay": 89,
-    "timeWeek": 54,
+    "timeDay": 76,
+    "timeWeek": 55,
     "timeMonth": 56,
     "timeYear": 57,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 1
+    }
   },
   {
     "name": "Controller L4 (US)",
     "url": "$US_CONTROLLER_L4_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "controller-l4-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 53,
     "timeMonth": 55,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 0
+    }
   },
   {
     "name": "[Edge] Ashburn, VA, US",
