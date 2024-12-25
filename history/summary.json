@@ -112,18 +112,20 @@
     "url": "$E1_FRANKFURT_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/de.adc6c9b3594fb2f4a4df.svg",
     "slug": "edge-frankfurt-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 355,
-    "timeWeek": 463,
-    "timeMonth": 435,
-    "timeYear": 441,
-    "dailyMinutesDown": {}
+    "time": 516,
+    "timeDay": 7850,
+    "timeWeek": 2323,
+    "timeMonth": 916,
+    "timeYear": 516,
+    "dailyMinutesDown": {
+      "2024-12-25": 1
+    }
   },
   {
     "name": "[Edge] Taipei, TW",
@@ -166,18 +168,20 @@
     "url": "$E1_LONDON_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/gb.84d4bb24d2a1a5891e0d.svg",
     "slug": "edge-london-england",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 380,
-    "timeWeek": 423,
-    "timeMonth": 399,
-    "timeYear": 412,
-    "dailyMinutesDown": {}
+    "time": 483,
+    "timeDay": 7392,
+    "timeWeek": 2170,
+    "timeMonth": 851,
+    "timeYear": 483,
+    "dailyMinutesDown": {
+      "2024-12-25": 0
+    }
   },
   {
     "name": "[Edge] Tokyo, Japan",
