@@ -1,7 +1,7 @@
 url: $E1_LONDON_CTRL_USW2
-status: up
-code: 200
-responseTime: 380
-lastUpdated: 2024-12-24T23:11:47.097Z
+status: down
+code: 502
+responseTime: 14403
+lastUpdated: 2024-12-25T05:47:38.414Z
 startTime: 2024-06-20T09:14:31.054Z
 generator: Upptime <https://github.com/upptime/upptime>
