@@ -166,9 +166,9 @@
     "url": "$E1_LONDON_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/gb.84d4bb24d2a1a5891e0d.svg",
     "slug": "edge-london-england",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +177,9 @@
     "timeWeek": 433,
     "timeMonth": 424,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-13": 0
+    }
   },
   {
     "name": "[Edge] Tokyo, Japan",
