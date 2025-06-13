@@ -166,19 +166,19 @@
     "url": "$E1_LONDON_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/gb.84d4bb24d2a1a5891e0d.svg",
     "slug": "edge-london-england",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 447,
-    "timeDay": 472,
-    "timeWeek": 433,
+    "timeDay": 450,
+    "timeWeek": 432,
     "timeMonth": 424,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-06-13": 0
+      "2025-06-13": 20
     }
   },
   {
