@@ -112,19 +112,19 @@
     "url": "$E1_FRANKFURT_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/de.adc6c9b3594fb2f4a4df.svg",
     "slug": "edge-frankfurt-germany",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 492,
-    "timeDay": 521,
-    "timeWeek": 458,
-    "timeMonth": 470,
+    "timeDay": 535,
+    "timeWeek": 469,
+    "timeMonth": 473,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-12-04": 0
+      "2025-12-04": 24
     }
   },
   {
