@@ -112,18 +112,20 @@
     "url": "$E1_FRANKFURT_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/de.adc6c9b3594fb2f4a4df.svg",
     "slug": "edge-frankfurt-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 516,
-    "timeWeek": 448,
-    "timeMonth": 469,
+    "time": 492,
+    "timeDay": 521,
+    "timeWeek": 458,
+    "timeMonth": 470,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-04": 0
+    }
   },
   {
     "name": "[Edge] Taipei, TW",
