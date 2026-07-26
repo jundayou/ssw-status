@@ -58,9 +58,9 @@
     "url": "$US_CONTROLLER_L4_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "controller-l4-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 49,
     "timeMonth": 61,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 0
+    }
   },
   {
     "name": "[Edge] Ashburn, VA, US",
