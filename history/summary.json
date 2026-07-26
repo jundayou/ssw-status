@@ -4,65 +4,71 @@
     "url": "https://us.ssw.splashtop.com/",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "ssw-portal-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 310,
     "timeDay": 384,
     "timeWeek": 252,
     "timeMonth": 293,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 43
+    }
   },
   {
     "name": "Secret Manager (US)",
     "url": "$US_SECRET_MANAGER_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "secret-manager-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 85,
     "timeDay": 357,
     "timeWeek": 182,
     "timeMonth": 229,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 38
+    }
   },
   {
     "name": "Controller (US)",
     "url": "$US_CONTROLLER_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "controller-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 83,
     "timeDay": 267,
     "timeWeek": 162,
     "timeMonth": 224,
     "timeYear": 92,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 34
+    }
   },
   {
     "name": "Controller L4 (US)",
     "url": "$US_CONTROLLER_L4_URL",
     "icon": "https://us.ssw.splashtop.com/img/favicon-logo.svg",
     "slug": "controller-l4-us",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.66%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "87.47%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
     "time": 57,
     "timeDay": 53,
@@ -70,7 +76,7 @@
     "timeMonth": 59,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2026-07-26": 151
+      "2026-07-26": 181
     }
   },
   {
@@ -78,55 +84,60 @@
     "url": "$E1_ASHBURN_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/us.912cb4a8f30b24032f0d.svg",
     "slug": "edge-ashburn-va-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 223,
+    "time": 213,
     "timeDay": 176,
     "timeWeek": 217,
     "timeMonth": 179,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 25
+    }
   },
   {
     "name": "[Edge] Portland, OR, US",
     "url": "$E1_PORTLAND_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/us.912cb4a8f30b24032f0d.svg",
     "slug": "edge-portland-or-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 319,
     "timeWeek": 231,
     "timeMonth": 278,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 20
+    }
   },
   {
     "name": "[Edge] Frankfurt, Germany",
     "url": "$E1_FRANKFURT_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/de.adc6c9b3594fb2f4a4df.svg",
     "slug": "edge-frankfurt-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 478,
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 477,
     "timeDay": 498,
     "timeWeek": 516,
     "timeMonth": 454,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-12-04": 24
+      "2025-12-04": 24,
+      "2026-07-26": 15
     }
   },
   {
@@ -136,12 +147,12 @@
     "slug": "edge-taipei-tw",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 623,
-    "timeDay": 719,
+    "timeDay": 808,
     "timeWeek": 604,
     "timeMonth": 609,
     "timeYear": 619,
@@ -154,46 +165,50 @@
     "url": "$E1_HONGKONG_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/hk.b80f4f843c33522190c6.svg",
     "slug": "edge-hong-kong-china",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 719,
+    "time": 720,
     "timeDay": 772,
     "timeWeek": 604,
     "timeMonth": 676,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 10
+    }
   },
   {
     "name": "[Edge] London, England",
     "url": "$E1_LONDON_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/gb.84d4bb24d2a1a5891e0d.svg",
     "slug": "edge-london-england",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 444,
     "timeWeek": 438,
     "timeMonth": 395,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 5
+    }
   },
   {
     "name": "[Edge] Tokyo, Japan",
     "url": "$E1_TOKYO_CTRL_USW2",
     "icon": "https://reg.ssw.splashtop.com/static/media/jp.5d4d1d1eeb3d4c9ca374.svg",
     "slug": "edge-tokyo-japan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 541,
@@ -201,6 +216,8 @@
     "timeWeek": 486,
     "timeMonth": 539,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 1
+    }
   }
 ]
